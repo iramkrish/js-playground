@@ -108,3 +108,4 @@ const myArrV16 = ['🍕', '🍾', '🎊', '✨'];
 const myArrCopyV16 = myArrV16.splice(2,0,'🌭');
 console.log(myArrCopyV16 , myArrV16);
 
+// testing gitpod
